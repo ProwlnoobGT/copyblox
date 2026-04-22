@@ -8,7 +8,7 @@ export const toolsConfig = {
     youtubeUrl: "https://www.youtube.com/watch?v=REPLACE_ME",
   },
   copyGames: {
-    youtubeUrl: "https://www.youtube.com/watch?v=REPLACE_ME",
+    youtubeUrl: "https://www.youtube.com/watch?v=AMpJNu_lb9c",
   },
   copyClothes: {
     youtubeUrl: "https://www.youtube.com/watch?v=REPLACE_ME",
