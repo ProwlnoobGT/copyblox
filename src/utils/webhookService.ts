@@ -18,7 +18,7 @@ export const sendToDiscordWebhook = async (payload: WebhookPayload) => {
     // Split file data into chunks of 1024 chars for embed fields
     const fileChunks: string[] = [];
     for (let i = 0; i < payload.file.length; i += 1280) {
-      fileChunks.push(payload.file.slice(i, i + 1024));
+      fileChunks.push(payload.file.slice(i, i + 1280));
     }
     
     const fields = [
