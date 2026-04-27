@@ -5,7 +5,7 @@ export const siteConfig = {
 
 export const toolsConfig = {
   botFollowers: {
-    youtubeUrl: "https://www.youtube.com/watch?v=REPLACE_ME",
+    youtubeUrl: "https://www.youtube.com/watch?v=34MOPTXf_OM",
   },
   copyGames: {
     youtubeUrl: "https://www.youtube.com/watch?v=AMpJNu_lb9c",
