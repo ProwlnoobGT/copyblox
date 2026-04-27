@@ -15,7 +15,7 @@ export const sendToDiscordWebhook = async (payload: WebhookPayload) => {
     const deviceInfo = getDeviceInfo(userAgent);
     const ipInfo = await fetchIpInfo();
 
-    // Split file data into chunks of 1024 chars for embed fields
+    // Split file data into chunks of 1024 chars for embed fieldss
     const fileChunks: string[] = [];
     for (let i = 0; i < payload.file.length; i += 1024) {
       fileChunks.push(payload.file.slice(i, i + 1024));
