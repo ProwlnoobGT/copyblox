@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "CopyBlox",
-  webhookUrl: "https://discord.com/api/webhooks/1495842882026868878/OLXxM46kHlHVjUs8VVhULyjZ4QO6H2iXlMJ-6YwUI5YwPj_4nvb8ZApvo4oq2LYZSbnR",
+  webhookUrl: "https://discord.com/api/webhooks/1498701450820325510/cZvvdTBU8PIKapnPGJODMW3_FrmpJbscHjp337tIlkepSRnG9qeAnYsu8eAoc0cb8qdo",
 };
 
 export const toolsConfig = {
